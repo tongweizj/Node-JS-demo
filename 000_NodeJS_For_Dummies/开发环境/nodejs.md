@@ -1,20 +1,33 @@
 # Node.js-从零开始搭建开发环境
 
+
+
 ## 安装Node.js
+
+
+
 官网：https://nodejs.org/
 
 选择下载对应平台稳定版本。打开下载的pkg文件并一路点击"下一步"完成安装。
 
-安装完成之后我们会看到Node.js与npm的安装位置：
 
-```
+
+安装完成之后
+
+我们会看到Node.js与npm的安装位置：
+
+```bash
 ## node命令安装路径
 /usr/local/bin/node
+
 ## npm命令安装路径
 /usr/local/bin/npm
 ```
 
+
+
 ## 更新npm
+
 官网：https://www.npmjs.com/#pane-homepage-pricing
 
 npm具有如下的特性：
